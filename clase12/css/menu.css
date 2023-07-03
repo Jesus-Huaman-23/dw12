@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+
+}
+div{
+    margin: 50px;
+    margin-left: 430px;
+}
+
+h1 {
+    color: blue;
+
+}
+
+h2 {
+    color: green;
+}
+
+ul {
+    background-color: rgb(38, 252, 38);
+    border: 3px dashed red;
+    width: 410px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+.nom {
+    color: orangered;
+
+}
